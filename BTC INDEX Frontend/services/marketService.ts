@@ -1,7 +1,7 @@
 import { ReportData, Indicator } from '../types';
 // [변경] GitHub Raw 데이터 주소
 // 사용자가 본인의 레포지토리 주소로 변경해야 함
-const API_URL = "https://raw.githubusercontent.com/YOUR_ID/YOUR_REPO/main/data.json";
+const API_URL = "https://raw.githubusercontent.com/frozenfrog89/BTC-Index-Dashboard/main/data.json";
 
 export const fetchMarketData = async (): Promise<ReportData> => {
   try {
