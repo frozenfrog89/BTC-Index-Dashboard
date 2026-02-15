@@ -14,14 +14,14 @@
 
 ### 1단계: GitHub 저장소 만들기
 1.  [GitHub](https://github.com/)에 로그인하고 **New Repository**를 만듭니다 (Public/Private 상관없음).
-2.  현재 프로젝트 폴더(`BTC onchain index`)를 해당 저장소와 연결하고 푸시합니다.
+2.  **생성된 저장소 주소(URL)**를 복사합니다. (예: `https://github.com/아이디/레포지토리이름.git`)
+3.  **Visual Studio Code 터미널**에 아래 명령어를 입력하여 업로드합니다.
+    (이미 로컬 저장소 초기화는 완료되었습니다!)
+
     ```powershell
-    # 터미널에서 프로젝트 폴더로 이동 후
-    git init
-    git add .
-    git commit -m "First commit"
-    git branch -M main
+    # 본인의 주소로 변경해서 입력하세요
     git remote add origin https://github.com/아이디/레포지토리이름.git
+    git branch -M main
     git push -u origin main
     ```
 
