@@ -5,7 +5,8 @@ const API_URL = "https://raw.githubusercontent.com/frozenfrog89/BTC-Index-Dashbo
 
 export const fetchMarketData = async (): Promise<ReportData> => {
   try {
-    const response = await fetch(API_URL);
+    // 캐시 방지를 위해 timestamp 추가
+    const response = await fetch(`${API_URL}?t=${new Date().getTime()}`);
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
