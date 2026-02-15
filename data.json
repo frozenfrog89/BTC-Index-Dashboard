@@ -1,8 +1,8 @@
 {
-    "timestamp": "2026-02-16T00:44:29.508625",
+    "timestamp": "2026-02-16T00:47:40.634221",
     "market": {
-        "current_price_usd": 69038.14,
-        "wma_200_usd": 58232.97,
+        "current_price_usd": 69008.62,
+        "wma_200_usd": 58232.83,
         "wma_ratio": 1.19
     },
     "sentiment": {
