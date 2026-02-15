@@ -1,0 +1,21 @@
+﻿**********************
+Windows PowerShell 기록 시작
+시작 시간: 20260216004019
+사용자 이름: HS\huuy8
+RunAs 사용자: HS\huuy8
+구성 이름: 
+Machine: HS (Microsoft Windows NT 10.0.26100.0)
+호스트 응용 프로그램: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File c:\Python\vscode\Project\BTC onchain index\run_update.ps1
+프로세스 ID: 34120
+PSVersion: 5.1.26100.7462
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.7462
+BuildVersion: 10.0.26100.7462
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+기록이 시작되었습니다. 출력 파일은 C:\Python\vscode\Project\BTC onchain index\update_log.txt입니다.
+?뱛 Setting working directory to: C:\Python\vscode\Project\BTC onchain index
+?? Bitcoin Dashboard Auto-Updater Running...
