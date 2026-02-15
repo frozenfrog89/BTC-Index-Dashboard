@@ -1,18 +1,15 @@
 {
-    "timestamp": "2026-02-16T00:02:15.112643",
+    "timestamp": "2026-02-16T00:34:30.449927",
     "market": {
-        "current_price_usd": 69109.89,
-        "wma_200_usd": 58233.33,
-        "wma_ratio": 1.19
+        "current_price_usd": 68861.74,
+        "wma_200_usd": 58232.09,
+        "wma_ratio": 1.18
     },
     "sentiment": {
         "value": 8,
         "classification": "Extreme Fear"
     },
     "onchain": {
-        "mvrv_z_score": 0.5,
-        "puell_multiple": 0.8,
-        "nupl": 0.2133,
         "funding_rate": 0.004664
     }
 }
