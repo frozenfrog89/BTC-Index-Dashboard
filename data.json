@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-08-29T17:40:52.552076",
+    "timestamp": "2026-08-30T00:06:23.229016",
     "market": {
-        "current_price_usd": 77544.19,
-        "wma_200_usd": 64569.65,
-        "wma_ratio": 1.2
+        "current_price_usd": 77866.29,
+        "wma_200_usd": 64571.26,
+        "wma_ratio": 1.21
     },
     "sentiment": {
         "value": 68,
@@ -12,7 +12,6 @@
     "onchain": {
         "mvrv_z_score": null,
         "puell_multiple": null,
-        "nupl": null,
-        "funding_rate": 0.01
+        "nupl": null
     }
 }
